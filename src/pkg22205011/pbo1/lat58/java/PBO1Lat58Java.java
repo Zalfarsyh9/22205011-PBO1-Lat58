@@ -6,8 +6,11 @@ package pkg22205011.pbo1.lat58.java;
 
 /**
  *
- * @author User Nama : Zalfa Rosiyah Riski Nim : 22205011 Jurusan : Teknik
- * Informatika Deskripsi : Membuat program dengan tambah kurang bilangan
+ * @author User 
+ * Nama : Zalfa Rosiyah Riski 
+ * Nim : 22205011 
+ * Jurusan : Teknik Informatika 
+ * Deskripsi : Membuat program dengan tambah kurang bilangan
  */
 class Bilangan {
 
